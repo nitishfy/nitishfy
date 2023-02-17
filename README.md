@@ -9,6 +9,22 @@
 - ✍️ Technical Writer at [Container Registry](https://container-registry.com/)
 - 🚩GitHub Campus Expert 
 
+---
+
+### Latest Blog Posts:
+  <!-- BLOG-POST-LIST:START -->
+  - [Kubernetes Services- Your way to connect with your application](https://nitishblog.hashnode.dev/kubernetes-services-your-way-to-connect-with-your-application)
+  - [CNCF - origin, landscape, projects](https://nitishblog.hashnode.dev/what-is-cncf-origin-landscape-projects)
+  - [The story behing my first contribution to Kubernetes](https://nitishblog.hashnode.dev/the-story-behind-my-first-contribution-to-kubernetes)
+  - [Sharing My University Experience](https://nitishblog.hashnode.dev/sharing-my-university-experience-nitish-kumar)
+  <!-- BLOG-POST-LIST:END -->
+  
+  ---
+  
+### Latest Youtube Videos:
+
+<!--  -->
+
 Social Links:
 
 - [LinkedIn](https://www.linkedin.com/in/nitishkumar06/)
