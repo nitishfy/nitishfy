@@ -29,4 +29,4 @@
 - [Twitter](https://twitter.com/Nitishtwt06)
 - [Youtube](https://www.youtube.com/channel/UCEWyvmnnZpfzU9cKLErAu_Q)
 
-![Youtube-gif](https://github.com/NitishKumar06/NitishKumar06/blob/main/ezgif-1-dddc365b19.gif)
+
