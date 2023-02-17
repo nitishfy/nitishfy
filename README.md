@@ -11,7 +11,7 @@
 
 ---
 
-### Latest Blog Posts:
+### 📚 Latest Blog Posts:
   <!-- BLOG-POST-LIST:START -->
   - [Kubernetes Services- Your way to connect with your application](https://nitishblog.hashnode.dev/kubernetes-services-your-way-to-connect-with-your-application)
   - [CNCF - origin, landscape, projects](https://nitishblog.hashnode.dev/what-is-cncf-origin-landscape-projects)
@@ -20,13 +20,21 @@
   <!-- BLOG-POST-LIST:END -->
   
   ---
+  
+  ### 🎥 Latest Youtube Videos:
+  
+  - [Learn DevOps in a structured way - Recommended Platform](https://youtu.be/OMzeMn_XeEg)
+  - [Push your projects to GitHub - Here's how](https://youtu.be/qj4OXjEiB1A)
+  - [The Rise of Linux - How it bought a revolution in Tech](https://youtu.be/v_i6vKN79Fg)
+  - [How to get started with contributing to Kubernetes](https://www.youtube.com/watch?v=pGq1cMSKHZs&t=702s)
+
+![](https://github.com/NitishKumar06/NitishKumar06/blob/main/ezgif-1-dddc365b19.gif)
+  
+  ---
 
 <!--  -->
 
-**Reach out to me on:**
+**🔗 Reach out to me on:**
 
 - [LinkedIn](https://www.linkedin.com/in/nitishkumar06/)
 - [Twitter](https://twitter.com/Nitishtwt06)
-- [Youtube](https://www.youtube.com/channel/UCEWyvmnnZpfzU9cKLErAu_Q)
-
-
