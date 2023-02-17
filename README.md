@@ -23,7 +23,7 @@
 
 <!--  -->
 
-Social Links:
+**Reach out to me on:**
 
 - [LinkedIn](https://www.linkedin.com/in/nitishkumar06/)
 - [Twitter](https://twitter.com/Nitishtwt06)
