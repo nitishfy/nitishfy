@@ -20,8 +20,6 @@
   <!-- BLOG-POST-LIST:END -->
   
   ---
-  
-### Latest Youtube Videos:
 
 <!--  -->
 
