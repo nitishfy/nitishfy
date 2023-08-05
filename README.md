@@ -4,7 +4,6 @@
 
 - ☸️Contributor at [Kubernetes](https://kubernetes.io/) 
 - 🧑‍🎓Ambassador at [KodeKloud](https://kodekloud.com/)
-- ✍️ Technical Writer at [Container Registry](https://container-registry.com/)
 - 🚩GitHub Campus Expert 
 
 ---
