@@ -34,5 +34,5 @@
 
 **🔗 Reach out to me on:**
 
-- [LinkedIn](https://www.linkedin.com/in/nitishkumar06/)
-- [Twitter](https://twitter.com/Nitishtwt06)
+- [LinkedIn](https://www.linkedin.com/in/nitishfy/)
+- [Twitter](https://twitter.com/nitishfy)
