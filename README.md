@@ -10,11 +10,11 @@
 
 ### 📚 Latest Blog Posts:
   <!-- BLOG-POST-LIST:START -->
+- [RDS User Guide - SigNoz](https://nitishblog.hashnode.dev/rds-user-guide-signoz)
 - [Building a REST-API in Go - Part I](https://nitishblog.hashnode.dev/building-a-rest-api-in-go-part-i)
 - [Kubernetes Scheduling: Where Pods Learn to Stand in Line &lpar;Or Not&rpar;](https://nitishblog.hashnode.dev/kubernetes-scheduling-where-pods-learn-to-stand-in-line-or-not)
 - [LFX Mentorship Experience - Kubernetes](https://nitishblog.hashnode.dev/lfx-mentorship-experience-kubernetes)
 - [Top 13 beginner-friendly tools for Kubernetes Beginners](https://nitishblog.hashnode.dev/top-13-beginner-friendly-tools-for-kubernetes-beginners)
-- [Kubernetes Services - Your way to connect with your application](https://nitishblog.hashnode.dev/kubernetes-services-your-way-to-connect-with-your-application)
 <!-- BLOG-POST-LIST:END -->
   
   ---
